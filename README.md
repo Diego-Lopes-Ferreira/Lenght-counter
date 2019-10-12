@@ -19,7 +19,7 @@ edit autoexec.bat
 ## Usage example
 Imagine that you have a file with all the lengths of your songs and want to count the total time.
 Use this script
-_For more examples and usage, please refer to the [Wiki][https://github.com/Diego-Lopes-Ferreira/Time-counter]._
+_For more examples and usage, please refer to the [Wiki](https://github.com/Diego-Lopes-Ferreira/Time-counter)._
 
 ## Development setup
 
