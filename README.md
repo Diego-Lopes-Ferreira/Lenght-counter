@@ -36,7 +36,7 @@ npm test
 
 ## Meta
 
-Diego Lopes Ferreira – [@Twitter](https://twitter.com/dbader_org) – [@Instagram](https://www.instagram.com/diego.lopes.f/) - [@Facebook](https://www.facebook.com/diego.lf.75)
+Diego Lopes Ferreira – [@Twitter](https://isitchristmas.com/) – [@Instagram](https://isitchristmas.com/) - [@Facebook](https://www.facebook.com/diego.lf.75)
 
 Distributed under the NO license. See [No License]() for more information.
 
